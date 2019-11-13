@@ -1,0 +1,12 @@
+DEV|print("a[10]")|No varible named a|retrive data
+STG|for i in range(0,2)|List out of Index [23]|looping
+UAT|import pandasa as pd|pandas: Package not found|importing
+PROD|import numpy as np|numpy: Package not found|importing
+
+Anudeep:- 
+
+DEV|for val in "string":
+ |val : undefined variables|iteration
+STG|while var >! 0:  |invalid operator|validation
+UAT|import matplotlib.pyplot as plt|matplot: Package not found|importing
+PROD|Not compatible with IOS 13|Update not found|Updating
